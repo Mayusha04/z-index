@@ -1,0 +1,32 @@
+img{
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    margin: 40px;
+    
+}
+.one{
+    top: 15px;
+    left: 15px;
+    border: rgb(84, 209, 46) solid 3px;
+    z-index: 1;
+}
+.two{
+    top:40px;
+    left: 40px;
+    border: rgb(32, 29, 175) solid 3px;
+    z-index: 0;
+}
+.three{
+    top:110px;
+    left: 110px;
+    border: rgb(226, 42, 186) solid 3px;
+    z-index: -1;
+}
+.index{
+    margin: 15px;
+}
+h1{
+    text-align: center;
+    color: rgb(241, 23, 34);
+}
